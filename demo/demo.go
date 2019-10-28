@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gpool"
+	"github.com/qingwenjie/gpool"
 	"time"
 )
 
